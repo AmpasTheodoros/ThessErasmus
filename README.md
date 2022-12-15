@@ -8,19 +8,19 @@ To view the website, simply clone or download the repository and open the `index
 
 ## Features
 
-- The website includes a map that is centered on Thessaloniki, Greece.
-- Users can enter a location in the search bar and the map will display the location and provide information such as the address and nearby businesses.
-- The map includes markers for popular locations in Thessaloniki, such as the White Tower and Aristotle Square.
+- The website includes a search bar for users to enter a location.
+- The map will display the location and provide information such as the address and nearby businesses.
+- Users can use the map to zoom in and out, as well as pan around to view different areas.
 - The website is responsive and will adjust to fit different screen sizes.
 
 ## Future Plans
 
 In the future, I plan to add additional features to the website such as:
 
-- The ability for users to add their own markers and descriptions for locations.
-- The ability to switch between different map views, such as satellite and street view.
-- The ability to display real-time traffic information on the map.
+- The ability for users to save their favorite locations and view them on the map.
+- The ability to display directions and estimates for travel time between locations.
+- The ability to view different map styles and layers, such as satellite and traffic.
 
 ## Credits
 
-This project was created by [AmpasTheodoros](https://github.com/AmpasTheodoros) as a way to learn and practice web development. The map and location data are provided by the [Google Maps API](https://
+This project was created by [AmpasTheodoros](https://github.com/AmpasTheodoros) as a way to learn and practice web development and the Google Maps API.
